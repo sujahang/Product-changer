@@ -1,0 +1,7 @@
+Smooth Scrolling
+    1. Attach loco scroll css
+    2. Attact locomobive scroll min js
+    3. some code from loco github fro js.
+
+Gsap 
+    1. Attach Gsap
