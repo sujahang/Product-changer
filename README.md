@@ -31,3 +31,5 @@ To set up and run this project locally:
    ```bash
    git clone https://github.com/sujahang/Product-changer.git
 
+### 🌐 Live Demo
+👉 [Click here to try it out] (https://sujahang.github.io/Product-changer/)
